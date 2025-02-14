@@ -15,3 +15,5 @@ The source code for training our models can be found here [Model source code](ht
 
 # Web server
 We also provide a web server to the users,  which you can access from the [Web server](https://awi.cuhk.edu.cn/~biosequence/StackDILI/).
+
+**Notice:** Due to a change in the university's server domain, some of the URLs mentioned in the paper might no longer be accessible. However, the web server link provided above remains valid and can be used without any issues (https://awi.cuhk.edu.cn/~biosequence/StackDILI/).
