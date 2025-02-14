@@ -3,6 +3,8 @@ Drug-induced liver injury (DILI) is a major challenge in drug development, often
 
 This DILI risk prediction tool developed by a team from the Chinese University of Hong Kong (Shenzhen)
 
+**Notice:** Due to a change in the university's server domain, some of the URLs mentioned in the paper might no longer be accessible. However, the web server link provided above remains valid and can be used without any issues (https://awi.cuhk.edu.cn/~biosequence/StackDILI/).
+
 ![The workflow of this study](https://github.com/GGCL7/StackDILI/blob/main/workflow.png)
 
 
@@ -16,4 +18,4 @@ The source code for training our models can be found here [Model source code](ht
 # Web server
 We also provide a web server to the users,  which you can access from the [Web server](https://awi.cuhk.edu.cn/~biosequence/StackDILI/).
 
-**Notice:** Due to a change in the university's server domain, some of the URLs mentioned in the paper might no longer be accessible. However, the web server link provided above remains valid and can be used without any issues (https://awi.cuhk.edu.cn/~biosequence/StackDILI/).
+
